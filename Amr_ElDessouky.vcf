@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:ElDessouky;Amr;;;
+FN:Amr ElDessouky
+ORG:Keller Williams West Monmouth
+TITLE:REALTOR® Associate
+TEL;TYPE=WORK,VOICE:7325369010
+TEL;TYPE=CELL,VOICE:9293044488
+ADR;TYPE=WORK:;;45 County Rd 520, Ste 200;Englishtown;NJ;07726;USA
+EMAIL;TYPE=WORK:amro@kw.com
+URL:https://amro.kw.com
+X-SOCIALPROFILE;TYPE=LinkedIn:https://www.linkedin.com/in/amrsd
+X-SOCIALPROFILE;TYPE=Facebook:https://www.facebook.com/profile.php?id=61583463732921
+X-SOCIALPROFILE;TYPE=Instagram:https://www.instagram.com/amro_realtor/
+X-SOCIALPROFILE;TYPE=WhatsApp:+19293044488
+PHOTO;VALUE=URI:https://github.com/amrsd/ARealtorCard/raw/refs/heads/main/AmrE.jpg
+NOTE:Specialties: Residential, Commercial, Investment Properties, Buyers & Sellers | NJ Real Estate License #2559187
+END:VCARD
